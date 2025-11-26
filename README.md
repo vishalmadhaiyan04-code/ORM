@@ -48,8 +48,8 @@ class CarAdmin(admin.ModelAdmin):
 <img width="1919" height="1079" alt="Screenshot 2025-11-24 222200" src="https://github.com/user-attachments/assets/c5d253fd-6447-4af0-ba7d-6c83391cfa72" />
 
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-24 223139" src="https://github.com/user-attachments/assets/65fb86fc-b654-4200-802d-44acbc21058f" />
 
-<img width="1920" height="1080" alt=<img width="1914" height="982" alt="Screenshot 2025-11-25 093513" src="https://github.com/user-attachments/assets/a9062e17-faa3-42f0-ab93-e4fcd01ce753" />
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
